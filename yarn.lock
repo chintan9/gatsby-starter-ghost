@@ -833,17 +833,10 @@
     core-js "^2.5.7"
     regenerator-runtime "^0.11.1"
 
-"@babel/runtime@7.8.4", "@babel/runtime@^7.7.6":
+"@babel/runtime@7.8.4", "@babel/runtime@^7.1.2", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6":
   version "7.8.4"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.8.4.tgz#d79f5a2040f7caa24d53e563aad49cbc05581308"
   integrity sha512-neAp3zt80trRVBI1x0azq6c57aNBqYZH8KhMm3TaB7wEI5Q4A2SHfBHE8w9gOhI/lrqxtEbXZgQIrHP+wvSGwQ==
-  dependencies:
-    regenerator-runtime "^0.13.2"
-
-"@babel/runtime@^7.1.2", "@babel/runtime@^7.3.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2":
-  version "7.7.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.7.2.tgz#111a78002a5c25fc8e3361bedc9529c696b85a6a"
-  integrity sha512-JONRbXbTXc9WQE2mAZd1p0Z3DZ/6vaQIkgYMSTP3KjRCyd7rCZCcfhCyX+YjwcKxcZ82UrxbRD358bpExNgrjw==
   dependencies:
     regenerator-runtime "^0.13.2"
 
@@ -5598,10 +5591,10 @@ gatsby-plugin-advanced-sitemap@1.5.1:
     moment "^2.24.0"
     xml "^1.0.1"
 
-gatsby-plugin-catch-links@2.1.25:
-  version "2.1.25"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-2.1.25.tgz#163332de7708317146239250f95dff16af748914"
-  integrity sha512-6B+oTJLrqY3gJOO3G3DdyazSemcl/CFe7XLuBQmB5OfiReUsulu/w6NbgWP5KRRhXYQHtNoL2z19Z1xbRHJNOg==
+gatsby-plugin-catch-links@2.1.26:
+  version "2.1.26"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-2.1.26.tgz#d1c030e339ff100f53367babf40ecbcff8c03990"
+  integrity sha512-q+ZVVEXV2eku9w5fu0tHjcIHijcgvQIghsPARCS3oGvykezPZHwXI2JgwvLEv+ZdqdK7pejg/fMEyn8uG7kaUw==
   dependencies:
     "@babel/runtime" "^7.7.6"
     escape-string-regexp "^1.0.5"

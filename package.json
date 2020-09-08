@@ -51,7 +51,7 @@
     "gatsby-plugin-offline": "3.2.26",
     "gatsby-plugin-react-helmet": "3.3.10",
     "gatsby-plugin-sharp": "2.6.31",
-    "gatsby-source-filesystem": "2.3.27",
+    "gatsby-source-filesystem": "2.3.28",
     "gatsby-source-ghost": "4.0.5",
     "gatsby-transformer-sharp": "2.5.14",
     "lodash": "4.17.20",
